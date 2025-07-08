@@ -3,7 +3,7 @@
     "description": "Blade directives for try-catch-finally blocks in Laravel Blade templates",
     "type": "library",
     "license": "MIT",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "azmolla",
     "keywords": [
         "laravel",
