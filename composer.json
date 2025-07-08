@@ -7,9 +7,9 @@
     "publisher": "azmolla",
     "keywords": [
         "laravel",
-        "maintenance",
-        "mode",
-        "database"
+        "try-catch",
+        "blade",
+        "error-handling"
     ],
     "authors": [
         {
