@@ -3,7 +3,7 @@
     "description": "Blade directives for try-catch-finally blocks in Laravel Blade templates",
     "type": "library",
     "license": "MIT",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "azmolla",
     "keywords": [
         "laravel",
@@ -15,18 +15,17 @@
         {
             "name": "Abiruzzaman Molla",
             "email": "abiruzzaman.molla@gmail.com",
-            "role": "Backend Developer",
-            "homepage": "https://www.linkedin.com/in/abiruzzamanmolla/"
+            "role": "Backend Developer"
         }
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/AbiruzzamanMolla/maintenance-mode-laravel.git"
+        "url": "https://github.com/AbiruzzamanMolla/blade-try-catch.git"
     },
     "bugs": {
-        "url": "https://github.com/AbiruzzamanMolla/maintenance-mode-laravel/issues"
+        "url": "https://github.com/AbiruzzamanMolla/blade-try-catch/issues"
     },
-    "homepage": "https://github.com/AbiruzzamanMolla/maintenance-mode-laravel",
+    "homepage": "https://github.com/AbiruzzamanMolla/blade-try-catch",
     "require": {
         "php": "^7.1 || ^8.0",
         "illuminate/support": "5.8.*|6.*|7.*|8.*|^9.0|^10.0|^11.0|^12.0"
